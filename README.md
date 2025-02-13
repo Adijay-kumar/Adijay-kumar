@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adijay-kumar
 - 👀 I’m interested in Science and Tech
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Researchs on new tech
+- 🌱 I’m currently learning Programming and contributing in Aura- the voice assistant project
+- 💞️ I’m looking to collaborate on Researchs on new tech and making problem solving softwares
 - 📫 How to reach me 8595867520 
 - 😄 Pronouns: He
 - ⚡ Fun fact: experimenting with ideas
